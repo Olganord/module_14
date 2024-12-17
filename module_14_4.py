@@ -9,7 +9,7 @@ import logging
 
 
 logging.basicConfig(level=logging.INFO)
-api = '7712800845:AAFYF0DKC9C1LvFrK2qyYIB7GfP7lFlpY4Q'
+api = '***'
 bot = Bot(token=api)
 dp = Dispatcher(bot, storage=MemoryStorage())
 
